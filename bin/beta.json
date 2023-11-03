@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "spent-time",
+      "script": "src/server.js",
+      "watch": true,
+      "env": {
+        "NODE_ENV": "beta"
+      }
+    }
+  ]
+}

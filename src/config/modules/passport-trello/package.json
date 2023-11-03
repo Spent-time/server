@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "passport-trello",
+        "scope": null,
+        "escapedName": "passport-trello",
+        "name": "passport-trello",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/cloud-coders/Projects/spent-time/server"
+    ]
+  ],
+  "_from": "passport-trello@latest",
+  "_id": "passport-trello@0.1.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/passport-trello",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "name": "fuwaneko",
+    "email": "atskiisotona@gmail.com"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "passport-trello",
+    "scope": null,
+    "escapedName": "passport-trello",
+    "name": "passport-trello",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/passport-trello/-/passport-trello-0.1.5.tgz",
+  "_shasum": "cc98ce493a4827a6335490acd2c0d995580fd039",
+  "_shrinkwrap": null,
+  "_spec": "passport-trello",
+  "_where": "/Users/cloud-coders/Projects/spent-time/server",
+  "author": {
+    "name": "Dmitry Gorbunov",
+    "email": "me@tewi.tk",
+    "url": "http://tewi.tk"
+  },
+  "bugs": {
+    "url": "https://github.com/fuwaneko/passport-trello/issues"
+  },
+  "dependencies": {
+    "passport-oauth1": "^1.0.1"
+  },
+  "description": "Trello authentication strategy for Passport.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "cc98ce493a4827a6335490acd2c0d995580fd039",
+    "tarball": "https://registry.npmjs.org/passport-trello/-/passport-trello-0.1.5.tgz"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "gitHead": "3071ae98ebe310c10e42ca118c05828a1eb5e1c8",
+  "homepage": "https://github.com/fuwaneko/passport-trello#readme",
+  "keywords": [
+    "passport",
+    "trello",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "main": "./lib/passport-trello",
+  "maintainers": [
+    {
+      "name": "fuwaneko",
+      "email": "atskiisotona@gmail.com"
+    }
+  ],
+  "name": "passport-trello",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fuwaneko/passport-trello.git"
+  },
+  "scripts": {},
+  "version": "0.1.5"
+}
